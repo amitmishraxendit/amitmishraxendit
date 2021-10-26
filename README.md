@@ -8,7 +8,7 @@
 
 ### Hello! Welcome to my profile
 
-<img style="margin: 0 auto" src="https://miro.medium.com/max/2000/1*sSDFJaOCJV91jCf9EMk1Sg.png">
+<img style="margin: 0 auto" src="https://miro.medium.com/max/2000/1*sSDFJaOCJV91jCf9EMk1Sg.png" height="200">
 
 ### About
 
